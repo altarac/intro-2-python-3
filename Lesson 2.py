@@ -52,6 +52,13 @@ forward(100)
 left(120)
 forward(100)
 
+# A quick preview of lesson 3:
+# to loop something 3 times, you can do this:
+for i in range(3):
+    forward(100)
+    left(120)
+
+    
 # Challenge:
 # What does 120 mean in the left() function?
 # Can you make other shapes?
